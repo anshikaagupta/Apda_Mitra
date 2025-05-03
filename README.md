@@ -1,4 +1,4 @@
-# Apda-Mitra: Disaster Relief and Response Solution
+# Apda-Mitra: Disaster Relief and Response Solution 🫂⛑️
 
 ## Overview  
 Apda-Mitra is a cutting-edge disaster relief and response system which is designed to enhance the emergency management during natural disasters such as floods and wildfires. This project leverages the **satellite data, **AI-driven analysis, and **drone-based victim detection to improve real-time awareness, optimize the resource distribution and accelerate the disaster response efforts.
@@ -39,10 +39,10 @@ To use the disaster relief and response solution, follow these steps:
 
 # Use deployed app to check Flood Victim Detection model:[https://anshikaagupta-apda-mitra-app-rulm2i.streamlit.app/]
 UI:
-![image](https://github.com/MonaTheDon/Sahayta/assets/104318895/8f705083-6928-4c5a-b0da-87b5d68a560f)
+ <img src="assets/Screenshot%20(370).png" width="900" />
 
 Results:
-![image](https://github.com/MonaTheDon/Sahayta/assets/104318895/5c1f10d1-6f68-4866-836b-6e1cb85f6492)
+<img src="assets/Screenshot%20(371).png" width="900" />
 
 # Run it in your local machine:
 1. Clone the repository to your local machine: `git clone https://github.com/your-username/disaster-relief-solution.git`
