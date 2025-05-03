@@ -33,3 +33,34 @@ By integrating **AI, satellite technology, and drone capabilities**, Apda-Mitra 
 #Flood Segmenation
 
 ![Unable to load image](assets/flood.png)
+
+## Getting Started
+To use the disaster relief and response solution, follow these steps:
+
+# Use deployed app to check Flood Victim Detection model: https://sahayta.streamlit.app/
+UI:
+![image](https://github.com/MonaTheDon/Sahayta/assets/104318895/8f705083-6928-4c5a-b0da-87b5d68a560f)
+
+Results:
+![image](https://github.com/MonaTheDon/Sahayta/assets/104318895/5c1f10d1-6f68-4866-836b-6e1cb85f6492)
+
+# Run it in your local machine:
+1. Clone the repository to your local machine: `git clone https://github.com/your-username/disaster-relief-solution.git`
+2. Install the necessary dependencies and libraries as specified in the documentation.
+3. Install requirements for streamlit app
+`pip install -r requirements.txt`
+4. Set up the environment and configure the solution parameters according to your requirements.
+5. Get Your ROBOFLOW_API_KEY from https://universe.roboflow.com/
+6. To Check results for Victim Detection in Floods
+` streamlit run app.py`
+7. To check Results for Flood Detection and Segmentation and Wildfire detection, Run the provided scripts and modules to execute the solution components, analyze data, and generate insights.
+8. Output images from Flood Segmentation model training is saved in `./Flood_mapping` 
+
+# Youtube Demo
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/EtirOIDTqKU/0.jpg)](https://www.youtube.com/watch?v=EtirOIDTqKU)
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+## Acknowledgments
+We would like to acknowledge the contributions of the open-source community and the support of our partners and collaborators in developing and testing this disaster relief and response solution. Thank you for your support!
