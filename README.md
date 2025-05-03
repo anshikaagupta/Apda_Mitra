@@ -37,7 +37,7 @@ By integrating **AI, satellite technology, and drone capabilities**, Apda-Mitra 
 ## Getting Started
 To use the disaster relief and response solution, follow these steps:
 
-# Use deployed app to check Flood Victim Detection model: https://sahayta.streamlit.app/
+# Use deployed app to check Flood Victim Detection model:[https://anshikaagupta-apda-mitra-app-rulm2i.streamlit.app/]
 UI:
 ![image](https://github.com/MonaTheDon/Sahayta/assets/104318895/8f705083-6928-4c5a-b0da-87b5d68a560f)
 
