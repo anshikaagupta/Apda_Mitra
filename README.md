@@ -30,7 +30,7 @@ By integrating **AI, satellite technology, and drone capabilities**, Apda-Mitra 
 ![Unable to load image](assets/victim.png)
 ![Unable to load image](assets/matrix.png)
 
-#Flood Segmenation
+# Flood Segmenation
 
 ![Unable to load image](assets/flood.png)
 
@@ -56,11 +56,10 @@ Results:
 7. To check Results for Flood Detection and Segmentation and Wildfire detection, Run the provided scripts and modules to execute the solution components, analyze data, and generate insights.
 8. Output images from Flood Segmentation model training is saved in `./Flood_mapping` 
 
-# Youtube Demo
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/EtirOIDTqKU/0.jpg)](https://www.youtube.com/watch?v=EtirOIDTqKU)
-
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgments
 We would like to acknowledge the contributions of the open-source community and the support of our partners and collaborators in developing and testing this disaster relief and response solution. Thank you for your support!
+
+# Collaboration team 
+1) Ritu Pathak (pritu6841)
+2) Keshav Gaur (keshavGaur1)
+3) Abhishek Yadav (abhishek8172)
